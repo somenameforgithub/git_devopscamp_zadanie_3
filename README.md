@@ -22,3 +22,7 @@ Wysyłam lokalny branch test do zdalnego test
 ## pull request
 Tworzę pull request na merge test do main
 ![pull request](pull_request.png)
+
+## ostatnia zmiana w main
+W main widać marge test - zmiany z test zostały przeniesione do main
+
