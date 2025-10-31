@@ -18,3 +18,7 @@ Pobrałem repozytorium do lokalnego gita. Dodatkowo utworzyłem lokalny branch t
 w lokalnym git dodaję obrazki w branch test
 Wysyłam lokalny branch test do zdalnego test
 ![test push](local_test_do_github_test.png)
+
+## pull request
+Tworzę pull request na merge test do main
+![pull request](pull_request.png)
