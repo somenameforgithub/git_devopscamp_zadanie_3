@@ -1,5 +1,6 @@
 # git_devopscamp_zadanie_3
 Reopzytorium do zadania 3 - utworzenie nowego repo na githubie
+[link do repo na github](https://github.com/somenameforgithub/git_devopscamp_zadanie_3.git)
 ![github init](tworzenie_repo.png)
 
 ## pierwsza zmiana
